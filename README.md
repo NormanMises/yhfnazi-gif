@@ -2,9 +2,7 @@
 
 ---
 
-## 介绍
-
-### 内容
+## 内容介绍
 
 - 原创 GIF 出处
   - GIF 预览 [![twitter](https://img.shields.io/twitter/follow/realnazigif?style=social "欢迎关注我的 Twitter")](https://twitter.com/realnazigif)
