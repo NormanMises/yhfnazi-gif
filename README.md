@@ -14,10 +14,10 @@
 
 ## 车库地址
 
-- Band App
-- Android 下载 [Google Play](https://play.google.com/store/apps/details?id=com.nhn.android.band)
-- 蓝奏云下载 [Band](https://wlint.lanzoui.com/b04xxpj0f) 密码 ayib
-- iOS 下载 [App Store](https://apps.apple.com/cn/app/band-%25E7%25BE%25A4%25E7%25BB%2584-%25E7%25A4%25BE%25E5%258C%25BA/id542613198)
+- Band App  
+  [![Google Play](https://img.shields.io/badge/Android-Google%20Play-brightgreen)](https://play.google.com/store/apps/details?id=com.nhn.android.band)
+  [![lanzou](https://img.shields.io/badge/%E8%93%9D%E5%A5%8F%E4%BA%91-%E5%AF%86%E7%A0%81%20ayib-yellowgreen)](https://wlint.lanzoui.com/b04xxpj0f)  
+  [![App Store](https://img.shields.io/badge/iOS-App%20Store-blue)](https://apps.apple.com/cn/app/band-%25E7%25BE%25A4%25E7%25BB%2584-%25E7%25A4%25BE%25E5%258C%25BA/id542613198)
 
 ## 如何上车
 
