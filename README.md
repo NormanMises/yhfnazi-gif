@@ -39,7 +39,3 @@
 付款后添加客服 QQ 2942869624 加入 Band~
 
 ![支付宝·微信·QQ支付](三合一支付.png)
-
-<span id="busuanzi_container_site_pv">    
-	本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
