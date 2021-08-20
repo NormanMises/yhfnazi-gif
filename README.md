@@ -40,3 +40,6 @@
 付款后添加客服 QQ 2942869624 加入 Band~
 
 ![支付宝·微信·QQ支付](三合一支付.png)
+
+
+[1](https://normanmises.github.io/realnazigif/GIF-preview.md)
