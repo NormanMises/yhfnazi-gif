@@ -5,7 +5,7 @@
 ## 内容介绍
 
 - 原创 GIF 出处
-  - [GIF 预览](https://normanmises.github.io/realnazigif-preview/) 
+  - [GIF 预览](https://realnazi.github.io/realnazigif-preview/) 
   - [![twitter](https://img.shields.io/twitter/follow/realnazigif?style=social "欢迎关注我的 Twitter")](https://twitter.com/realnazigif)  
 
 - 网络热门 GIF 出处、
